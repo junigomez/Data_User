@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Data_User</string>
+    <string name="datos_personales">DATOS PERSONALES</string>
+    <string name="ingresar_datos">INGRESAR DATOS</string>
+    <string name="codigo">codigo</string>
+    <string name="nombre">nombre</string>
+    <string name="telefono">telefono</string>
+    <string name="direccion">direccion</string>
+    <string name="cedula">cedula</string>
+    <string name="profesion">profesion</string>
+    <string name="ciudad">ciudad</string>
+</resources>
